@@ -9,3 +9,5 @@ white*
 server.properties
 config*
 log*
+crash-reports/
+
